@@ -1,4 +1,4 @@
-# Unidad4
+# Practico4b
 Proyecto base para realizar los ejercicios del Practico 4b: Herencia y agregación
 
 **Ejercicio 1 (6 puntos)**
